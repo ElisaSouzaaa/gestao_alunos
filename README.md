@@ -18,12 +18,17 @@ Esse projeto tem a finalidade de cadastrar alunos e suas notas do primeiro e seg
 - Java 8 ou superior
 - IDE de sua preferência
 
-## Como usar a API No Swagger
+## Como aceesar a aplicação
+
+- Basta clicar em `https://gestao-alunos.onrender.com` para interagir com a aplicação
+
+## Como usar a API No Swagger localmente
 
 1. Clone o repositório para a sua máquina
 2. Abra o projeto em sua IDE
-3. Execute a classe principal `GenAwsApplication`
-4. Abra o Open your browser and go to http://localhost:8080/swagger-ui no seu browser
+3. Mude o aplicattion.properties para 'dev' ou invés de 'prod'
+4. Execute a classe principal `GenAwsApplication`
+5. Abra o Open your browser and go to http://localhost:8080/swagger-ui no seu browser
 
 ## Linguagens Utilizadas
 
